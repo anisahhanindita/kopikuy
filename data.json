@@ -3,21 +3,21 @@
         {
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
-            "size": "12 oz",
+            "size": "12 Oz",
             "harga": "20.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_espresso.jpg",
             "nama": "Pahit Arabica",
-            "size": "12 oz",
+            "size": "12 Oz",
             "harga": "20.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Arabica",
-            "size": "20 oz",
+            "size": "20 Oz",
             "harga": "23.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
@@ -33,14 +33,14 @@
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Robusta",
-            "size": "20 oz",
+            "size": "20 Oz",
             "harga": "25.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_affogato.jpg",
             "nama": "affogato",
-            "size": "5 oz",
+            "size": "5 Oz",
             "harga": "25.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
@@ -59,20 +59,27 @@
             "size": "20 oz",
             "harga": "15.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_air_mineral.jpg",
+            "nama": "Air Mineral",
+            "size": "650 ml",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
     ],
     "snack": [
         {
             "foto": "images/produk/product_cookies.jpg",
             "nama": "Cookies",
-            "size": "100 ml",
+            "size": "1 Pcs",
             "harga": "15.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
             "foto": "images/produk/product_kentang_goreng.jpg",
             "nama": "Kentang Goreng",
-            "size": "100 ml",
+            "size": "1 Poesi",
             "harga": "15.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         }
