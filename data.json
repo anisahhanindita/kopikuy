@@ -75,6 +75,13 @@
             "size": "1 Pcs",
             "harga": "15.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_kentang goreng.jpg",
+            "nama": "Kentang",
+            "size": "1 Pcs",
+            "harga": "15.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         }
     ]
 }
